@@ -8,3 +8,5 @@
 3. Будут проигноированы файлы в корне каталога про маске *.tfstate, *.tfstate.*, *.tfvars, *_override.tf, *_override.tf.json
 
 Новая строка в ветке fix
+
+Дополнительная строка через PyCharm
